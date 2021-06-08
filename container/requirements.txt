@@ -1,0 +1,8 @@
+numpy==1.20.3
+protobuf
+flask
+textblob
+spacy==3.0.6
+stanfordnlp
+stanfordcorenlp
+
