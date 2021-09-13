@@ -1,0 +1,9 @@
+spacy==2.1.0
+fastapi==0.68.1
+-e git+https://github.com/huggingface/neuralcoref.git@60338df6f9b0a44a6728b442193b7c66653b0731#egg=neuralcoref 
+-e git+https://github.com/stanfordnlp/stanza.git@c457a9309ad15c522e94230f919c25d1e7aebf64#egg=stanza
+nltk==3.6.2
+textblob==0.15.3
+uvicorn==0.15.0
+stanfordnlp==0.2.0
+spacy==2.1.0
