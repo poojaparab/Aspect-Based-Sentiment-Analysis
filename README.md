@@ -7,3 +7,6 @@ Output will be: {"aspect=food, opinion=great": "polarity=0.9", "aspect=price, op
 
 ## Implementation
 Using coreference resolution, standford core nlp(currently stanza) and applying 5 basic grammer rules I'm extracticg aspect and opinion about the aspect of the sentences. By using textblob on aspect and opinion, I'm fetching polarity of the words which will be in range from 0(negative) to 1(positive).
+
+## FastApi Implementation
+https://github.com/poojaparab/Aspect-Based-Sentiment-Analysis/tree/main/aspect-opinion-extraction-fastapi
